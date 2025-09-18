@@ -46,7 +46,7 @@ pip install torch torchvision matplotlib numpy
 
 Clone this repository:
 ```
-git clone https://github.com/<your-username>/deep-sequence-models.git
+git clone https://github.com/tamerbegum/deep-sequence-models.git
 cd deep-sequence-models
 ```
 Open the Jupyter Notebook:
